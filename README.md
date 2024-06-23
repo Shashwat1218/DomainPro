@@ -45,13 +45,13 @@ The project's goal is to provide an advanced Domain/IP Recon Tool based on a gra
 ## Additional Information
 
 ### Website
-We have a dedicated website for the tool.
+#### We have a dedicated website for the tool. 
 ![Website](Images/2.png)
 
 ### Mobile Application
-Available for both Android and iOS.
+#### Available for Android.
 ![Mobile App](Images/3.png)
 
 ### Desktop GUI
-Supported on both Mac and Windows platforms.
+#### Supported on both Mac and Windows platforms.
 ![Desktop GUI](Images/1.png)
